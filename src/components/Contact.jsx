@@ -54,15 +54,15 @@ export default function Contact() {
             </p>
             
             <div className="space-y-4">
-              <a href="mailto:your.email@example.com" className="flex items-center gap-4 p-4 rounded-lg bg-[#F5F4F0] dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
+              <a href="mailto:harshith07.2007@gmail.com" className="flex items-center gap-4 p-4 rounded-lg bg-[#F5F4F0] dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
                 <Mail className="w-6 h-6 text-accent" />
-                <span className="font-medium">your.email@example.com</span>
+                <span className="font-medium">harshith07.2007@gmail.com</span>
               </a>
               <a href="https://github.com/Harshith-codzz" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 p-4 rounded-lg bg-[#F5F4F0] dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
                 <Github className="w-6 h-6 text-accent" />
                 <span className="font-medium">GitHub Profile</span>
               </a>
-              <a href="https://linkedin.com/in/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 p-4 rounded-lg bg-[#F5F4F0] dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
+              <a href="https://www.linkedin.com/in/harshith-n-b0a760394/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-4 p-4 rounded-lg bg-[#F5F4F0] dark:bg-gray-800 hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
                 <Linkedin className="w-6 h-6 text-accent" />
                 <span className="font-medium">LinkedIn Profile</span>
               </a>

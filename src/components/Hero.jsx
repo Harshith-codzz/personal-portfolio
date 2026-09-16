@@ -38,10 +38,10 @@ export default function Hero() {
           <a href="https://github.com/Harshith-codzz" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-gray-900 dark:hover:text-white transition-colors">
             <Github className="w-6 h-6" />
           </a>
-          <a href="https://linkedin.com/in/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-gray-900 dark:hover:text-white transition-colors">
+          <a href="https://www.linkedin.com/in/harshith-n-b0a760394/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-gray-900 dark:hover:text-white transition-colors">
             <Linkedin className="w-6 h-6" />
           </a>
-          <a href="mailto:your.email@example.com" className="text-gray-400 hover:text-gray-900 dark:hover:text-white transition-colors">
+          <a href="mailto:harshith07.2007@gmail.com" className="text-gray-400 hover:text-gray-900 dark:hover:text-white transition-colors">
             <Mail className="w-6 h-6" />
           </a>
         </div>

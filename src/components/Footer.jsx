@@ -19,10 +19,10 @@ export default function Footer() {
           <a href="https://github.com/Harshith-codzz" target="_blank" rel="noopener noreferrer" className="p-2 bg-[#FAF9F6] dark:bg-gray-800 rounded-full text-gray-600 dark:text-gray-400 hover:text-accent dark:hover:text-accent shadow-sm transition-colors">
             <Github className="w-5 h-5" />
           </a>
-          <a href="https://linkedin.com/in/" target="_blank" rel="noopener noreferrer" className="p-2 bg-[#FAF9F6] dark:bg-gray-800 rounded-full text-gray-600 dark:text-gray-400 hover:text-accent dark:hover:text-accent shadow-sm transition-colors">
+          <a href="https://www.linkedin.com/in/harshith-n-b0a760394/" target="_blank" rel="noopener noreferrer" className="p-2 bg-[#FAF9F6] dark:bg-gray-800 rounded-full text-gray-600 dark:text-gray-400 hover:text-accent dark:hover:text-accent shadow-sm transition-colors">
             <Linkedin className="w-5 h-5" />
           </a>
-          <a href="mailto:your.email@example.com" className="p-2 bg-[#FAF9F6] dark:bg-gray-800 rounded-full text-gray-600 dark:text-gray-400 hover:text-accent dark:hover:text-accent shadow-sm transition-colors">
+          <a href="mailto:harshith07.2007@gmail.com" className="p-2 bg-[#FAF9F6] dark:bg-gray-800 rounded-full text-gray-600 dark:text-gray-400 hover:text-accent dark:hover:text-accent shadow-sm transition-colors">
             <Mail className="w-5 h-5" />
           </a>
         </div>
